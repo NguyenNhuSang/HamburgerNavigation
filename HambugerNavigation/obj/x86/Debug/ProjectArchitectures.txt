@@ -1,0 +1,1 @@
+D:\Visual studio\HambugerNavigation\HambugerNavigation.csproj;x86
